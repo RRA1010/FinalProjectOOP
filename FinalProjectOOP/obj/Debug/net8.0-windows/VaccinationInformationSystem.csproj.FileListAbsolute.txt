@@ -1,0 +1,8 @@
+C:\Users\Ross\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\net8.0-windows\VaccinationInformationSystem.LogInForm.resources
+C:\Users\Ross\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\net8.0-windows\FinalProjectOOP.MainForm.resources
+C:\Users\Ross\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\net8.0-windows\VaccinationInformationSystem.Properties.Resources.resources
+C:\Users\Ross\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\net8.0-windows\VaccinationInformationSystem.csproj.GenerateResource.cache
+C:\Users\Ross\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\net8.0-windows\VaccinationInformationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ross\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\net8.0-windows\VaccinationInformationSystem.AssemblyInfoInputs.cache
+C:\Users\Ross\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\net8.0-windows\VaccinationInformationSystem.AssemblyInfo.cs
+C:\Users\Ross\source\repos\FinalProjectOOP\FinalProjectOOP\obj\Debug\net8.0-windows\VaccinationInformationSystem.csproj.CoreCompileInputs.cache
